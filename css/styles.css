@@ -14,7 +14,7 @@
   --bs-blue: #020422;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
-  --bs-pink: #e21e80;
+  --bs-pink: #121d92;
   --bs-red: #dc3545;
   --bs-orange: #fd7e14;
   --bs-yellow: #ffc107;
@@ -35,7 +35,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: #1e30f3;
-  --bs-secondary: #e21e80;
+  --bs-secondary: #121d92;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -75,7 +75,7 @@
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #1e30f3;
   --bs-link-hover-color: #1826c2;
-  --bs-code-color: #e21e80;
+  --bs-code-color: #121d92;
   --bs-highlight-bg: #fff3cd;
 }
 
