@@ -11663,7 +11663,7 @@ html {
     width: 50vw;
   }
   .profile .profile-img {
-    height: 55vw;
+    height: 100vw;
   }
   .profile .dots-1 {
     width: 3vw;
@@ -11688,7 +11688,7 @@ html {
     width: 40vw;
   }
   .profile .profile-img {
-    height: 45vw;
+    height: 100vw;
   }
   .profile .dots-1 {
     width: 1.5vw;
@@ -11713,7 +11713,7 @@ html {
     width: 35vw;
   }
   .profile .profile-img {
-    height: 40vw;
+    height: 100vw;
   }
   .profile .dots-1 {
     width: 1.5vw;
